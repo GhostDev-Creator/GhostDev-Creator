@@ -54,5 +54,3 @@ Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvime
 </p>
 
 <br/><br/><br/>
-
----
