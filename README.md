@@ -58,8 +58,7 @@ Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvime
 ---
 
 ### Projeto
-```
+
 Projeto Dashboard de Qualidade da Água e Dados Climáticos
 
 Olá! Estou desenvolvendo um projeto web para criar um dashboard interativo que monitora e exibe informações sobre a qualidade da água e dados climáticos. A ideia é reunir dados relevantes e apresentar visualizações claras e intuitivas para facilitar a análise e a tomada de decisões.
-```
