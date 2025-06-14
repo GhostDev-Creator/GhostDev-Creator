@@ -1,39 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏻‍💻 João Guilherme - GhostDev 
 
-**`Desenvolvedora FullStack`**
+**`Estudante FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Me chamo João Guilherme da Silva, Tenho 17 anos e sou estudante de Desenvolvimento de Sistemas em uma escola técnica. Atualmente estou no 2º ano do ensino médio e, desde pequeno, sempre fui fascinado por tecnologia. Hoje, estou aprendendo a programar de verdade e explorando o mundo da tecnologia de forma mais prática. Tenho interesse em desenvolvimento web e software - front-end. Tenho meu Instagram pessoal, onde pretendo criar conteúdo técnico por lá futuramente: [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/profilecard/?igsh=cDl1NmFhZzE3aGc4).
 
 ---
 
@@ -65,78 +34,6 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -151,26 +48,179 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Card Tecnologias</title>
+<style>
+  body {
+    background: #000000; /* preto */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff; /* branco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .card {
+    background: #1a0a3a; /* roxo escuro */
+    border: 1px solid #7e57c2; /* roxo */
+    border-radius: 5px;
+    padding: 25px 30px;
+    width: 320px;
+    box-shadow: 0 0 15px #7e57c2cc;
+  }
+  .card h2 {
+    color: #b39ddb; /* lilás claro */
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 20px;
+    animation: fadeIn 0.8s ease forwards;
+  }
+  .progress-bar {
+    position: relative;
+    background: #3e276a; /* roxo médio */
+    border-radius: 5px;
+    height: 10px;
+    margin-bottom: 18px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    border-radius: 5px;
+    animation: growWidth 0.6s ease forwards;
+  }
+  .lang-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    opacity: 0;
+    animation: fadeIn 0.3s ease forwards;
+    color: #d1c4e9; /* lilás suave */
+  }
+  .circle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .html { background: #7c4dff; }    /* roxo vibrante */
+  .css { background: #9575cd; }     /* lilás médio */
+  .js { background: #d1c4e9; color: #000; } /* lilás claro */
+  .hack { background: #b39ddb; }    /* lilás suave */
+  .python { background: #b39ddb; }
+  .java { background: #7c4dff; }
+  .lang-name {
+    font-weight: 400;
+    font-size: 13px;
+  }
+  .lang-percent {
+    margin-left: auto;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  @keyframes growWidth {
+    from { width: 0; }
+    to { width: var(--progress-width); }
+  }
+  @keyframes fadeIn {
+    to { opacity: 1; }
+  }
+  .lang-info:nth-child(1) { animation-delay: 0.45s; }
+  .lang-info:nth-child(2) { animation-delay: 0.6s; }
+  .lang-info:nth-child(3) { animation-delay: 0.75s; }
+  .lang-info:nth-child(4) { animation-delay: 0.9s; }
+  .lang-info:nth-child(5) { animation-delay: 1.05s; }
+  .lang-info:nth-child(6) { animation-delay: 1.2s; }
+  .lang-info:nth-child(7) { animation-delay: 1.35s; }
+</style>
+</head>
+<body>
+<div class="card" role="img" aria-labelledby="cardTitle" aria-describedby="cardDesc">
+  <h2 id="cardTitle">Tecnologias</h2>
+  <div id="cardDesc" hidden>
+    Distribuição das linguagens e frameworks usadas.
+  </div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <div class="lang-info">
+    <div class="circle html"></div>
+    <div class="lang-name">HTML</div>
+    <div class="lang-percent">30.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 30%;">
+    <div class="progress-fill html" style="width: 0%; animation-delay: 0.45s; animation-fill-mode: forwards;"></div>
+  </div>
 
-</p>
+  <div class="lang-info">
+    <div class="circle css"></div>
+    <div class="lang-name">CSS</div>
+    <div class="lang-percent">15.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 15%;">
+    <div class="progress-fill css" style="width: 0%; animation-delay: 0.6s; animation-fill-mode: forwards;"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle js"></div>
+    <div class="lang-name">JavaScript</div>
+    <div class="lang-percent">10.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 10%;">
+    <div class="progress-fill js" style="width: 0%; animation-delay: 0.9s; animation-fill-mode: forwards;"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle python"></div>
+    <div class="lang-name">Python</div>
+    <div class="lang-percent">10.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 10%;">
+    <div class="progress-fill python" style="width: 0%; animation-delay: 1.05s; animation-fill-mode: forwards;"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle java"></div>
+    <div class="lang-name">Java</div>
+    <div class="lang-percent">30.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 30%;">
+    <div class="progress-fill java" style="width: 0%; animation-delay: 1.2s; animation-fill-mode: forwards;"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle hack"></div>
+    <div class="lang-name">Hack</div>
+    <div class="lang-percent">5.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 5%;">
+    <div class="progress-fill hack" style="width: 0%; animation-delay: 1.35s; animation-fill-mode: forwards;"></div>
+  </div>
+</div>
+
+<script>
+  document.querySelectorAll('.progress-fill').forEach(el => {
+    const width = getComputedStyle(el.parentElement).getPropertyValue('--progress-width');
+    el.style.width = width;
+  });
+</script>
+
+</body
