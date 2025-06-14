@@ -1,3 +1,141 @@
+<div class="card" role="img" aria-labelledby="cardTitle" aria-describedby="cardDesc">
+  <h2 id="cardTitle">Tecnologias</h2>
+  <div id="cardDesc" hidden>Distribuição das linguagens e frameworks usadas.</div>
+
+  <div class="lang-info">
+    <div class="circle html"></div>
+    <div class="lang-name">HTML</div>
+    <div class="lang-percent">30.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 30%;">
+    <div class="progress-fill html"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle css"></div>
+    <div class="lang-name">CSS</div>
+    <div class="lang-percent">15.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 15%;">
+    <div class="progress-fill css"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle js"></div>
+    <div class="lang-name">JavaScript</div>
+    <div class="lang-percent">10.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 10%;">
+    <div class="progress-fill js"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle python"></div>
+    <div class="lang-name">Python</div>
+    <div class="lang-percent">10.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 10%;">
+    <div class="progress-fill python"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle java"></div>
+    <div class="lang-name">Java</div>
+    <div class="lang-percent">30.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 30%;">
+    <div class="progress-fill java"></div>
+  </div>
+
+  <div class="lang-info">
+    <div class="circle hack"></div>
+    <div class="lang-name">Hack</div>
+    <div class="lang-percent">5.00%</div>
+  </div>
+  <div class="progress-bar" style="--progress-width: 5%;">
+    <div class="progress-fill hack"></div>
+  </div>
+</div>
+
+<style>
+  .card {
+    background: #1a0a3a;
+    border-radius: 5px;
+    padding: 20px 25px;
+    max-width: 360px;
+    color: #d1c4e9;
+  }
+  .card h2 {
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: #b39ddb;
+  }
+  .lang-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    color: #d1c4e9;
+    font-size: 15px;
+  }
+  .circle {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .html { background: #7c4dff; }
+  .css { background: #9575cd; }
+  .js { background: #d1c4e9; color: #000; }
+  .hack { background: #b39ddb; }
+  .python { background: #b39ddb; }
+  .java { background: #7c4dff; }
+  .lang-name {
+    font-weight: 400;
+  }
+  .lang-percent {
+    margin-left: auto;
+    font-weight: 600;
+  }
+  .progress-bar {
+    position: relative;
+    background: #3e276a;
+    border-radius: 5px;
+    height: 14px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: inset 0 0 5px #7e57c2bb;
+  }
+  .progress-fill {
+    height: 100%;
+    border-radius: 5px;
+    animation: growWidth 0.8s ease forwards;
+  }
+  .html.progress-fill { background: #7c4dff; }
+  .css.progress-fill { background: #9575cd; }
+  .js.progress-fill { background: #d1c4e9; }
+  .hack.progress-fill { background: #b39ddb; }
+  .python.progress-fill { background: #b39ddb; }
+  .java.progress-fill { background: #7c4dff; }
+
+  @keyframes growWidth {
+    from { width: 0; }
+    to { width: var(--progress-width); }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.progress-fill').forEach(el => {
+    const width = getComputedStyle(el.parentElement).getPropertyValue('--progress-width');
+    el.style.width = '0';
+    setTimeout(() => {
+      el.style.width = width;
+    }, 100);
+  });
+</script>
+
+
 <div class="icons" aria-label="Ícones das tecnologias">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
