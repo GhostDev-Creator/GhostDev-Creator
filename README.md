@@ -2,7 +2,8 @@
 
 **`Estudante FullStack`**
 
-Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas em uma escola técnica. Atualmente estou no 2º ano do ensino médio. Hoje, estou aprendendo a programar de verdade e explorando o mundo da tecnologia de forma mais prática. Tenho interesse em desenvolvimento web e software - front-end. Tenho meu Instagram pessoal, onde pretendo criar conteúdo técnico por lá futuramente: [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/profilecard/?igsh=cDl1NmFhZzE3aGc4).
+Me chamo João Guilherme da Silva, tenho 17 anos. Sou estudante de Desenvolvimento de Sistemas em uma escola técnica e atualmente estou no 2º ano do ensino médio. Minha jornada na tecnologia está se tornando cada vez mais prática, e estou finalmente aprendendo a programar de verdade.
+Tenho interesse em desenvolvimento web e software, especialmente na área de front-end. Além disso, estudo inglês (nível intermediário) e estou aprendendo francês. Meu Instagram pessoal é [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/profilecard/?igsh=cDl1NmFhZzE3aGc4).
 
 ---
 
