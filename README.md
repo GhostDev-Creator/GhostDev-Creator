@@ -113,14 +113,3 @@ My name is João Guilherme da Silva, I’m 17 years old, and I’m a Systems Dev
 </p>
 
 <br/><br/><br/>
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDev-Creator&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
