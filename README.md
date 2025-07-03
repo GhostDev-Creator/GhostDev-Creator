@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Guilherme - GhostDev  
 
-**`Estudante FullStack`**
+**`Estudante Back-End`**
 
 **`🇧🇷 Português`**
 Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas em uma escola técnica. Atualmente estou no 2º ano do ensino médio. Minha jornada na tecnologia está se tornando cada vez mais prática — estou finalmente aprendendo a programar de verdade. Tenho interesse em desenvolvimento software, com foco especial no back-end. Além disso, estudo inglês (nível intermediário) e também estou aprendendo francês. Meu Instagram pessoal é [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/).
@@ -58,7 +58,7 @@ Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvime
 
 # 👨🏻‍💻 João Guilherme - GhostDev  
 
-**`Estudante FullStack`**
+**`Estudante Back-End`**
 
 **`🇺🇸 English`**
 My name is João Guilherme da Silva, I’m 17 years old, and I’m a Systems Development student at a technical high school. I'm currently in the second year of high school. My journey in tech is becoming more hands-on, and I’m finally learning how to code for real. I’m passionate about software development, especially in the back-end area. I also study English (intermediate level) and I'm learning French as well. My personal Instagram is [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/).
