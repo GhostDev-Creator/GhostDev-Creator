@@ -58,7 +58,7 @@ Me chamo João Guilherme da Silva, tenho 17 anos e sou estudante de Desenvolvime
 
 # 👨🏻‍💻 João Guilherme - GhostDev  
 
-**`Estudante Back-End`**
+**`Back-End Student`**
 
 **`🇺🇸 English`**
 My name is João Guilherme da Silva, I’m 17 years old, and I’m a Systems Development student at a technical high school. I'm currently in the second year of high school. My journey in tech is becoming more hands-on, and I’m finally learning how to code for real. I’m passionate about software development, especially in the back-end area. I also study English (intermediate level) and I'm learning French as well. My personal Instagram is [@itsjoaoguilherme_](https://www.instagram.com/itsjoaoguilherme_/).
