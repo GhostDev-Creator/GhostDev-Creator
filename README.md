@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Guilherme - GhostDev  
 
-**`Estudante Back-End | Back-End Student | Étudiant Back-End`**
+**`Estudante Full-Stack | Full-Stack Student | Étudiant Full-Stack`**
 
 ---
 
